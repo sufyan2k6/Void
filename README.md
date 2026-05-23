@@ -1,5 +1,5 @@
-# Mohabbat
+# Hello, welcome to this project!
 
-Mohabbat is a word that means deep love, affection, and devotion. It is often used to describe the emotional bond between people, where kindness, trust, and care are shared.
+## Welcome to my GitHub profile! 👋
 
-In poetry and song, Mohabbat carries a sense of longing and beauty, expressing how love can inspire the heart and transform the soul.
+Thanks for visiting! I'm excited to have you here. Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out!
